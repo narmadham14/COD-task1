@@ -2,6 +2,7 @@ Name: Narmadha M
 Id:ICOD7186
 Domain:Web development
 Mentor:Neela Harish
+Title: Todo list webpage with local storage
 Description:A to-do list is more than just a simple tool for jotting down tasks; it's a dynamic organizer that helps individuals manage their time effectively, prioritize responsibilities, and stay focused on their goals. At its core, a to-do list serves as a roadmap for daily, weekly, or long-term tasks, providing structure and clarity amidst the chaos of everyday life.
 
 In its simplest form, a to-do list consists of a series of tasks or activities that need to be completed within a specified timeframe. These tasks can range from mundane chores like grocery shopping to critical deadlines for work or school projects. By compiling these tasks in one centralized location, individuals can gain a holistic view of their obligations and allocate their time and resources accordingly.
